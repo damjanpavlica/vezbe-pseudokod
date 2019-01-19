@@ -14,7 +14,7 @@ Dat je niz objekata sa sledecim svojstvima:
 
 ## RESENJA:
 
-1.
+### 1.
 
 postaviti brojac m i brojac z na 0
 iterirati niz
@@ -31,7 +31,7 @@ iterirati niz
     povecati m brojac
 izracunati broj zena = duzina niza minus broj muskih
 
-2.
+### 2.
 
 proglasiti novi niz za drzave
 iterirati postojeci niz
@@ -44,7 +44,7 @@ proglasiti novi skup (Set)
 iterirati postojeci niz
   dodavati svaku drzavu u skup
 
-3.
+### 3.
 
 napraviti novi niz za rezultate
 iterirati postojeci niz
@@ -52,14 +52,14 @@ iterirati postojeci niz
   ako je korisnik muskarac i ako je iz Srbije i ako ima >= 30 godina
     dodati ga u novi niz
 
-4.
+### 4.
 
 napraviti novi niz za imena
 iterirati postojeci niz
   dodati ime objekta u novi niz
 sortirati novi niz abecedno
 
-5.
+### 5.
 
 proglasiti prazan recnik (objekat)
 iterirati niz
